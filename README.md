@@ -122,6 +122,8 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Tikitoko (Admin)`](https://github.com/brndnwjy/tikitoko-admin)
 
+:rocket: [`Tikitoko Admin Demo`](https://tikitoko-admin.netlify.app/)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Meet The Teams -->
